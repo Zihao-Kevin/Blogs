@@ -1,19 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>My New Hugo Site</title>
-    <link>http://localhost:1313/blogs/</link>
-    <description>Recent content on My New Hugo Site</description>
-    <generator>Hugo -- 0.135.0</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 03 Oct 2024 15:10:48 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/blogs/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Understanding_active_learning</title>
-      <link>http://localhost:1313/blogs/post/understanding_active_learning/</link>
-      <pubDate>Thu, 03 Oct 2024 15:10:48 -0400</pubDate>
-      <guid>http://localhost:1313/blogs/post/understanding_active_learning/</guid>
-      <description>&lt;p&gt;This is my post.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Zihao'log</title><link>http://localhost:1313/blogs/</link><description>Recent content on Zihao'log</description><image><title>Zihao'log</title><url>http://localhost:1313/blogs/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url><link>http://localhost:1313/blogs/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link></image><generator>Hugo -- 0.135.0</generator><language>en-us</language><lastBuildDate>Thu, 03 Oct 2024 15:10:48 -0400</lastBuildDate><atom:link href="http://localhost:1313/blogs/index.xml" rel="self" type="application/rss+xml"/><item><title>Understanding Active Learning vs. Random Sampling</title><link>http://localhost:1313/blogs/post/understanding_active_learning/</link><pubDate>Thu, 03 Oct 2024 15:10:48 -0400</pubDate><guid>http://localhost:1313/blogs/post/understanding_active_learning/</guid><description>&lt;p>Imaging you are on a trip and looking for a good restaurant to eat at. You have two options: check Google reviews to find highly-rated places or simply walk around and choose one at random. Intuitively, relying on reviews should lead to better dining experiment, but it also costs more time and potentially involves longer walking distances compared to the random approach.&lt;/p>
+&lt;p>This kind of tradeoff also exists in machine learning. The random approach is called random sampling, which the review-based method is analogous to active learning. Prof. Mussmann&amp;rsquo;s research aims to understand the relationship between random learning and active learning; specifically, under what circumstances active learning is theoretically guaranteed to outperform random sampling.&lt;/p></description></item></channel></rss>
